@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>601704</id>
+      <name>task_2</name>
+      <size>2</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-04-09 16:55:55.079502+00:00</created>
+      <updated>2024-04-09 16:56:11.050479+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>1</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>695235</id>
+          <start>0</start>
+          <stop>1</stop>
+          <url>https://app.cvat.ai/api/jobs/693764</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>kodenkonikita</username>
+        <email>kodenkonikita@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>obj</name>
+          <color>#c06020</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-04-09 16:56:25.524891+00:00</dumped>
+  </meta>
+  <image id="0" name="0001.png" width="300" height="300">
+    <box label="obj" source="manual" occluded="0" xtl="118.72" ytl="128.99" xbr="170.89" ybr="174.88" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="0002.png" width="300" height="300">
+    <box label="obj" source="manual" occluded="0" xtl="117.51" ytl="129.47" xbr="177.90" ybr="183.82" z_order="0">
+    </box>
+  </image>
+</annotations>
